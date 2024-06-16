@@ -7,7 +7,7 @@ t.radians()
 pi = math.pi
 
 t.pensize(2)
-t.pencolor("green")
+t.pencolor("blue")
 t.teleport(100,100)
 t.left(pi / 2)
 t.circle(10, 2 * pi)
